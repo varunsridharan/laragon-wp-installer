@@ -11,4 +11,4 @@ create VHosts, install wordpress & so on.
 > Due to which this script is now Archived
 
 # :heart: [Laragon](https://laragon.org/)
-![https://laragon.org/](https://cdn.svarun.dev/gh/laragon-wp-installer/laragon-banner.jpg)
+![https://laragon.org/](https://cdn.svarun.dev/gh/varunsridharan/laragon-wp-installer/laragon-banner.jpg)
